@@ -36,7 +36,7 @@
 
 	>1. AngularJs
 	>2. React
-	>3. view1 
+	>3. vue 
 	
 
 		架构选型注意项: 
