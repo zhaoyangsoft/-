@@ -6,5 +6,9 @@ git clone https://github.com/cnpm/nvs "$NVS_HOME"
 sh "$NVS_HOME/nvs.sh" install
 source "$NVS_HOME/nvs.sh"
 
+## 安装brew
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+## 安装 yarn
+brew install yarn
 
