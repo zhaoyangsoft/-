@@ -12,3 +12,8 @@ source "$NVS_HOME/nvs.sh"
 ## 安装 yarn
 brew install yarn
 
+
+
+## chrome-headless
+https://www.npmjs.com/package/hands-free-chrome
+https://www.npmjs.com/package/simple-headless-chrome
